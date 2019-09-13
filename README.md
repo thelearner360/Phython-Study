@@ -1,1 +1,1 @@
-# Phython-Study
+# Wonkwang University Phython-Study
